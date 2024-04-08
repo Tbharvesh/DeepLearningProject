@@ -33,6 +33,15 @@ This project utilizes several key technologies in the field of deep learning and
 - **TensorFlow:** An open-source deep learning framework used for building and training the neural network model. TensorFlow provides the tools necessary for high-performance numerical computation, essential for processing complex datasets like medical images.
 - **Deep Learning:** The project leverages deep learning algorithms to analyze and classify X-ray images accurately. These algorithms enable the model to learn from the vast amounts of data and make predictions or classifications based on its learning.
 
+## Models Used
+
+For building the deep learning model, we utilized the following architectures:
+
+- **CNN (Convolutional Neural Networks)**: CNNs are fundamental to deep learning for image and video recognition, image classification, and similar tasks.
+
+- **VGGNet**: Developed by the Visual Geometry Group, VGGNet is renowned for its simplicity and depth, significantly influencing the perception of depth in deep learning architectures.
+
+
 ## Conclusion
 
 The X-ray Image Classifier Model project represents a significant step towards harnessing the power of machine learning in medical imaging. By accurately classifying chest X-rays into categories indicative of specific respiratory conditions, this model aims to support healthcare professionals in delivering timely and precise diagnoses.
